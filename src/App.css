@@ -1,0 +1,19 @@
+.flex{
+  display: flex; 
+  
+}
+.img{
+  border-radius: 15px;
+  border: solid 1px;
+  padding: 3px;
+  margin: 25px;
+  text-align: center;
+}
+.img img{
+  margin: 25px;
+  width: 200px;
+  border-radius: 20px;
+}
+.img:hover{
+  background-color: brown;
+}
